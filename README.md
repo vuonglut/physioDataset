@@ -87,3 +87,8 @@ coder network for wearable stress monitoring,” 2025 https://data.mendeley.com/
 of workplace stress: Workstress3d dataset,” Data in
 Brief, vol. 54, pp. 110303, 2024.
 
+[17] Boran Toktay, ˙Ikbal Is¸ık Orhan, Elif Yıldırım,
+Fatma Patlar Akbulut, and Cagatay Catal, “Multi-
+modal insights into diverse pain experiences: Phys-
+iopain dataset,” Data in Brief, vol. 62, pp. 111992, 2025.
+

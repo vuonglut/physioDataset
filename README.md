@@ -81,3 +81,9 @@ Implantable Body Sensor Networks, BSN 2022.
 Motin, Sumaiya Kabir, Manish Sharma, and M. E. H.
 Chowdhury, “Teanet: A transpose-enhanced autoen-
 coder network for wearable stress monitoring,” 2025 https://data.mendeley.com/datasets/jwbz4ggws5/1
+
+[16] Gulin Dogan, Fatma Patlar Akbulut, and Cagatay Catal,
+“Biosignals, facial expressions, and speech as measures
+of workplace stress: Workstress3d dataset,” Data in
+Brief, vol. 54, pp. 110303, 2024.
+

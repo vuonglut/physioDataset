@@ -74,3 +74,5 @@ Implantable Body Sensor Networks, BSN 2022.
 [12] Anders, C., Moontaha, S., Real, S. et al. Unobtrusive measurement of cognitive load and physiological signals in uncontrolled environments. Sci Data 11, 1000 (2024). https://doi.org/10.1038/s41597-024-03738-7
 
 [13] Gashi S, Min C, Montanari A, Santini S, Kawsar F. A multidevice and multimodal dataset for human energy expenditure estimation using wearable devices. Sci Data. 2022;9(1):537. Published 2022 Sep 1. doi:10.1038/s41597-022-01643-5
+
+[14] Gao, N., Marschall, M., Burry, J. et al. Understanding occupants’ behaviour, engagement, emotion, and comfort indoors with heterogeneous sensors and wearables. Sci Data 9, 261 (2022). https://doi.org/10.1038/s41597-022-01347-w

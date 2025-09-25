@@ -103,3 +103,5 @@ ticipants,” Data in Brief, vol. 54, pp. 110535, 2024.
 [20] Gashi S, Min C, Montanari A, Santini S, Kawsar F. A multidevice and multimodal dataset for human energy expenditure estimation using wearable devices. Sci Data. 2022;9(1):537. Published 2022 Sep 1. doi:10.1038/s41597-022-01643-5
 
 [21] Gao, N., Marschall, M., Burry, J. et al. Understanding occupants’ behaviour, engagement, emotion, and comfort indoors with heterogeneous sensors and wearables. Sci Data 9, 261 (2022). https://doi.org/10.1038/s41597-022-01347-w
+
+[22] Henrik Svoren, Vajira Thambawita, Pål Halvorsen, Petter Jakobsen, Enrique Garcia-Ceja, Farzan Majeed Noori, Hugo L. Hammer, Mathias Lux, Michael Alexander Riegler, and Steven Alexander Hicks. 2020. Toadstool: a dataset for training emotional intelligent machines playing Super Mario Bros. In Proceedings of the 11th ACM Multimedia Systems Conference (MMSys '20). Association for Computing Machinery, New York, NY, USA, 309–314. https://doi.org/10.1145/3339825.3394939

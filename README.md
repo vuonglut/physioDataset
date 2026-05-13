@@ -69,7 +69,7 @@ coder network for wearable stress monitoring,” 2025 https://data.mendeley.com/
 of workplace stress: Workstress3d dataset,” Data in
 Brief, vol. 54, pp. 110303, 2024.
 
-[12] Anders, C., Moontaha, S., Real, S. et al. UNIVERSE: UNobtrusIVE measuRement of mental workload and stress in uncontrolled environments. Sci Data 11, 1000 (2024). https://zenodo.org/records/10371068
+[12] R. R. Azghan et al., "CAN-STRESS: A Real-World Multimodal Dataset for Understanding Cannabis Use, Stress, and Physiological Responses," 2025 IEEE 21st International Conference on Body Sensor Networks (BSN), Los Angeles, CA, USA, 2025, pp. 1-4, doi: 10.1109/BSN66969.2025.11337465.
 
 [13] Hosseini, Majid, et al. "EmpathicSchool: A multimodal dataset for real-time facial expressions and physiological data analysis under different stress conditions." arXiv preprint arXiv:2209.13542 (2022).
 
@@ -88,11 +88,7 @@ Catal, “Neurophysiological and biosignal data for in-
 vestigating occupational mental fatigue: Mefar dataset,”
 Data in Brief, vol. 52, pp. 109896, 2024.
 
-[18] Andrea Hongn, Facundo Bosch, Lara Eleonora Prado,
-Jos´e Manuel Ferr´andez, and Mar´ıa Paula Bonomini,
-“Wearable physiological signals under acute stress and
-exercise conditions,” Scientific Data, vol. 12, no. 1, pp.
-520, 2025.
+[18] Yekta Said Can, Dilara Gokay, Dilruba Reyyan Kılıç, Deniz Ekiz, Niaz Chalabianloo, and Cem Ersoy, "How laboratory experiments can be exploited for monitoring stress in the wild: A bridge between laboratory and daily life," Sensors, vol. 20, no. 3, pp. 838, 2020.
 
 [19] Debora P. Salgado, Sheila Fallon, Yuansong Qiao, and
 Eduardo L. M. Naves, “Wheelsimphysio-2023 dataset:
